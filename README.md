@@ -1,1 +1,0 @@
-# ccnp-enarsi
